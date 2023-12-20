@@ -1,5 +1,5 @@
 # mazeSolverProject
-El siguiente código fue desarrollado para la asignatura de Estructura de Datos y Algoritmos. El enunciado y las instrucciones del proyecto se encuentran a continuación.
+El siguiente código fue desarrollado para la asignatura de Estructura de Datos y Algoritmos. El enunciado y las instrucciones del proyecto se encuentran a continuación. Para compilar, simplemente ejecutar `make`. Para compilar y ejecutar, utilizar `make run`.
 
 ## Descripción
 En esta tarea deberás resolver un laberinto. Un laberinto es una matriz binaria, es decir que tiene dos posibles valores: (0) para indicar una celda disponible y (1) para indicar un muro. Así, en esta tarea deberán encontrar diversas soluciones dado un punto de inicio y un punto target para un laberinto generado aleatoriamente. La Figura 1 muestra, a la izquierda, un laberinto generado aleatoriamente y, a la derecha, una solución que parte de la primera fila y llega a la última. El laberinto mostrado en Figura 1 ha sido creado con el código de `https://github.com/jmsaavedrar/eda_cpp/tree/main/laberinto`. Esta implementación contiene la clase Maze, con métodos que permiten generar aleatoriamente un laberinto (puedes probarlo con el programa test del mismo repositorio).
