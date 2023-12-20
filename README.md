@@ -1,4 +1,4 @@
-# mazeSolverProject
+# Maze Solver Project
 El siguiente código fue desarrollado para la asignatura de Estructura de Datos y Algoritmos. El enunciado y las instrucciones del proyecto se encuentran a continuación. Para compilar, simplemente ejecutar `make`. Para compilar y ejecutar, utilizar `make run`.
 
 ## Descripción
