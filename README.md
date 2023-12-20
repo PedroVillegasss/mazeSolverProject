@@ -16,4 +16,4 @@ En esta tarea deberás resolver un laberinto. Un laberinto es una matriz binaria
 
 5. En ambos casos (con pila o con cola), la forma de insertar los nodos que vamos visitando deberá ser aleatoria, para garantizar que podamos encontrar diversas soluciones en cada ejecución. Esto es, si un nodo A se conecta los nodos B, C y D, los tres nodos hijos deben ser mezclados aleatoriamente antes de insertarlos en la pila o cola. Debes notar, que algunas veces el laberinto no tendrá solución, en ese caso deberás mostrar un mensaje indicando ese hecho.
 
-
+<img width="362" alt="Sin título" src="https://github.com/PedroVillegasss/maze_solver_project/assets/127313865/2a0639d7-478d-49d3-9f2c-32016bc5b0f9">
